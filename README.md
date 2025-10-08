@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KOUSTAV2409/readme-rehab/blob/main/banner.png" alt="Readme Rehab banner" width="100%">
+  <img src="https://github.com/KOUSTAV2409/readme-rehab/blob/master/banner.png" alt="Readme Rehab banner" width="100%">
 </p>
 
 # 🧩 Readme Rehab
