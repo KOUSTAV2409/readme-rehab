@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Temporary drafts or markdowns
+drafts/
+notes/
